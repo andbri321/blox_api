@@ -1,0 +1,2 @@
+module BloxesHelper
+end
